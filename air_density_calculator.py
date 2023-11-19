@@ -1,5 +1,5 @@
 # This is an air property calculator that calculates density.
-# Created by yuichiro shimura on 2023/11/19.
+# Created by yuichiro shimura on 2023/11/19.github-update-check
 
 # Universal gas constant and molecular weight of air
 # R: Universal gas constant, approximately 8314.33 J/(kmol * K)
